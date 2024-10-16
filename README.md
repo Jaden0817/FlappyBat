@@ -1,2 +1,2 @@
 # FlappyBat
-A twist on the classic game flappy bird. Made using raylib.
+A twist on the classic game flappy bird. Made using raylib. Depends on TextureAtlas.
